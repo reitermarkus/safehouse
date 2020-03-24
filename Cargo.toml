@@ -1,7 +1,13 @@
 [package]
 name = "safehouse"
+description = "A safe home automation framework."
+documentation = "https://docs.rs/safehouse"
+repository = "https://github.com/reitermarkus/safehouse"
+homepage = "https://github.com/reitermarkus/safehouse"
+readme = "ReadMe.md"
 version = "0.1.0"
 authors = ["Markus Reiter <me@reitermark.us>"]
+license = "MIT OR Apache-2.0"
 edition = "2018"
 
 [dependencies]
